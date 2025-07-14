@@ -9,7 +9,8 @@ public class Main {
 
         String name = (a<0)?"내이름":"iot";
         System.out.println(name);
-
+        System.out.println("zzz");
+        
         String name2;
         if(a<0){
             name2="내이름";
